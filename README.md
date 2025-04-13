@@ -9,7 +9,7 @@ This repository contains a traditional Turkish card game "Pişti" implementation
 
 ## Game Rules
 
-### Setup
+### Game Setup
 1. Four cards are placed face-up on the table
 2. Four cards are distributed to each player
 3. Player 1 starts the first round
